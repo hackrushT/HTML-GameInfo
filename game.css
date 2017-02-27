@@ -1,8 +1,22 @@
-#jumbo { 
-           background:url("original.jpg");
-		   background-size:100%;
+body
+{
+
+        background-image: url("original.jpg");
+        background-size: 100%;
+
+}
+#jumbo
+{ 
+  
+        background-color: transparent;
+        color: white;
+	 	background-size: 100%;
+
 }
 
-.white {
+.white 
+ 
+ {
+
 	       color:white;
-}
+ }
