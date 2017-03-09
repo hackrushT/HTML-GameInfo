@@ -1,5 +1,5 @@
 body {
-    background-image: url("original.jpg");
+    background-image: url("../images/original.jpg");
     background-size: 100%;
 }
 #jumbo {
