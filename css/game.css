@@ -1,6 +1,6 @@
 body {
     background-image: url("../images/original.jpg");
-    background-size: 100%;
+    background-size: cover;
 }
 #jumbo {
     background-color: transparent;
